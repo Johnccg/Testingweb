@@ -11,5 +11,5 @@ app.get("/", (req, res) => {
 })
 
 app.listen(3000, () => {
-    console.log("Server is listening in port 2000")
+    console.log("Server is listening in port 3000")
 })
